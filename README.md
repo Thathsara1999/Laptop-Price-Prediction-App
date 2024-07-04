@@ -1,5 +1,4 @@
-# Laptop Price Prediction App
- First Project
+
 # Laptop Price Prediction App
 
  This project aims to predict laptop prices using a machine learning model. The code starts by importing the necessary libraries, such as NumPy and pandas, and loading a dataset from a URL containing laptop specifications and prices. The dataset is then examined to understand its structure and content, confirming that there are no missing values.
